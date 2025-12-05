@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-rajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-rajkumar" /> </p>
 
-- 🔭 I’m currently working on Mayukam Tech Service **3D Portfolio**
+- 🔭 I’m currently working on Mayukam Tech Service
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
