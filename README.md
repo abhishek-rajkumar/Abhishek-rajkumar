@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh1am9kZjE2b2xta2ZydDBseW43Mmsza3JsMDJvNTZvc2JxbDgzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iBlgTxSS20NLdCxvDW/giphy.webp">
+<!-- <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGh1am9kZjE2b2xta2ZydDBseW43Mmsza3JsMDJvNTZvc2JxbDgzMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iBlgTxSS20NLdCxvDW/giphy.webp"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek-rajkumar&label=Profile%20views&color=0e75b6&style=flat" alt="abhishek-rajkumar" /> </p>
 
